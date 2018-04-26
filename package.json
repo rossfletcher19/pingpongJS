@@ -18,7 +18,9 @@
     "gulp-jshint": "^2.1.0",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
+    "hoek": "^5.0.3",
     "jshint": "^2.9.5",
     "vinyl-source-stream": "^2.0.0"
-  }
+  },
+  "dependencies": {}
 }
